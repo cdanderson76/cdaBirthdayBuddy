@@ -1,4 +1,4 @@
-#Birthday Buddy#:
+<h1>Birthday Buddy</h1>:
 
 Tools Used:  React / HTML / CSS
 Subjects Covered:  The 'map' function / JSX Syntax / light styling
