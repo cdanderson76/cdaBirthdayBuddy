@@ -17,8 +17,4 @@ I'm not sure that I would do anything different next time.  I made sure that I '
 
 Oh the challenges... 
 
-I ran into a LITTLE bit of a challenge trying to
-
-<h2>What specific areas of your project would you like help with?</h2>
-
-Not really, but if anyone would like to add anything to the short story that I have above, feel free.  Trying to become as knowledgeable as I can in reference to putting these projects together.  Thanks...
+I ran into a LITTLE bit of a challenge trying to render the content after clearing out the birthdays with the 'Clear All' button.
