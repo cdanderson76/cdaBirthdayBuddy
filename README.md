@@ -1,4 +1,4 @@
-Birthday Buddy:
+#Birthday Buddy#:
 
 Tools Used:  React / HTML / CSS
 Subjects Covered:  The 'map' function / JSX Syntax / light styling
