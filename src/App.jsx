@@ -1,6 +1,7 @@
 import './index.css';
 import { useState } from 'react';
 import data from './data';
+import List from './components/List';
 
 export default function App() {
 
@@ -17,33 +18,4 @@ export default function App() {
       <button className="btn btn-block" onClick={clearList}>Clear All</button>
     </section>
   );
-}
-
-function List({clear}) {
-
-  return (
-    <section>
-      {clear.map(person => {
-        const { id, name, image, age } = person;
-        return (
-          <Person key={id}
-                  name={name}
-                  image={image}
-                  age={age}/>
-        )
-      })}
-    </section>
-  )
-}
-
-function Person({ name, image, age }) {
-  return (
-    <article className='person'>
-      <img src={image} alt={name} className='img'/>
-      <div>
-        <h4>{name}</h4>
-        <p>{age}</p>
-      </div>
-    </article>
-  )
-}
+};
